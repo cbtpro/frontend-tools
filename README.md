@@ -4,8 +4,8 @@
 
 ***
 
-## THIS IS DEPREICATED CONTENT
-# This content has evolved into a book called "Front-end Handbook": https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
+## 这是废弃的内容
+# 这些内容已经演变成一本名为“前端手册”的书: https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
 
 ***
 
@@ -18,13 +18,13 @@
 
 
 
-#Landscaping With Frontend Development Tools
+#利用前端工具打造用户界面
 
 
-An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i.e. does not include tablet or phone yet) web development
+一份针对桌面/笔记本电脑（即不包括平板或手机）网页开发的前端（即 HTML、JavaScript、CSS）工具推荐清单
 
 
-##Coding Tools
+##编码工具
 
 
 ######Workflow/Builds/Assemblers/Task-runners/Dev Opts
@@ -53,7 +53,7 @@ An opinionated list of tools for frontend (i.e. html, js, css) desktop/laptop (i
 
 ---
 
-######Browser Package Managers (checkout: [Front-End Package Manager Comparison](https://github.com/wilmoore/frontend-packagers))
+######浏览器包管理器 (checkout: [Front-End Package Manager Comparison](https://github.com/wilmoore/frontend-packagers))
 
 * [bower](http://bower.io)
 * [component](https://github.com/component/component)
