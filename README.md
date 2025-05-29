@@ -5,7 +5,7 @@
 ***
 
 ## 这是废弃的内容
-# 这些内容已经演变成一本名为“前端手册”的书: https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
+# 这些内容已经演变成一本名为“前端手册”的书: [https://www.gitbook.com/book/frontendmasters/front-end-handbook/details](https://frontendmasters.com/guides/front-end-handbook/2024/)
 
 ***
 
